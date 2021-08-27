@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">드래곤플라이</string>
+    <string name="game_start_button">게임 시작</string>
+    <string name="game_title">드래곤 플라이</string>
+</resources>
